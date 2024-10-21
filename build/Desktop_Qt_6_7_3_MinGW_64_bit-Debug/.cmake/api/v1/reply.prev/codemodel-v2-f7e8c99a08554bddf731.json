@@ -1,0 +1,168 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-b98aa8ac0a6f4aeedbb2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5
+					]
+				},
+				{
+					"build" : "Database",
+					"jsonFile" : "directory-Database-Debug-3b7ca4349ccd924e5f58.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Database",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"build" : "Service",
+					"jsonFile" : "directory-Service-Debug-152f5dcaa3c85dc53e90.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Service",
+					"targetIndexes" : 
+					[
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "Login_Signup",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "Database::@c2e70d84feb6e889f948",
+					"jsonFile" : "target-Database-Debug-d52c2a739f54e7274767.json",
+					"name" : "Database",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Database_autogen::@c2e70d84feb6e889f948",
+					"jsonFile" : "target-Database_autogen-Debug-b04f909fe19e4f72e1fd.json",
+					"name" : "Database_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Database_autogen_timestamp_deps::@c2e70d84feb6e889f948",
+					"jsonFile" : "target-Database_autogen_timestamp_deps-Debug-c8a736d852800df27abf.json",
+					"name" : "Database_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Login_Signup::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Login_Signup-Debug-6a30026fca577d062d49.json",
+					"name" : "Login_Signup",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Login_Signup_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Login_Signup_autogen-Debug-7b202aeb256444593c5f.json",
+					"name" : "Login_Signup_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Login_Signup_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Login_Signup_autogen_timestamp_deps-Debug-e69af1fede2a79943b09.json",
+					"name" : "Login_Signup_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "Service::@91bc7765fde5a1b73d63",
+					"jsonFile" : "target-Service-Debug-0aedaf7ecd936d72a757.json",
+					"name" : "Service",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "Service_autogen::@91bc7765fde5a1b73d63",
+					"jsonFile" : "target-Service_autogen-Debug-3a161ce29563eb387e2e.json",
+					"name" : "Service_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "Service_autogen_timestamp_deps::@91bc7765fde5a1b73d63",
+					"jsonFile" : "target-Service_autogen_timestamp_deps-Debug-f98cb34a9ebe2fc88168.json",
+					"name" : "Service_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/tejas/Downloads/Login_Signup/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug",
+		"source" : "C:/Users/tejas/Downloads/Login_Signup"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

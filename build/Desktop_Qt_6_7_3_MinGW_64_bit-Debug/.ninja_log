@@ -1,0 +1,25 @@
+# ninja log v6
+38	128	7512108627471192	Database/Database_autogen/timestamp	e0f309c6f273aa5c
+5039	5451	7512130607756132	Login_Signup.exe	93762db18a10f5b0
+38	128	7512108627471192	Database/Database_autogen/mocs_compilation.cpp	e0f309c6f273aa5c
+242	311	7512105207647355	Database/CMakeFiles/Database.dir/Database_autogen/mocs_compilation.cpp.obj	3c65357c8b992551
+129	2069	7512108628413949	Database/CMakeFiles/Database.dir/database.cpp.obj	862f326aa9f1b8aa
+38	128	7512108627471192	C:/Users/tejas/Downloads/Login_Signup/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/Database/Database_autogen/timestamp	e0f309c6f273aa5c
+53	264	7512130557877497	Login_Signup_autogen/mocs_compilation.cpp	f3f7ade0e3d80bae
+38	128	7512108627471192	C:/Users/tejas/Downloads/Login_Signup/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/Database/Database_autogen/mocs_compilation.cpp	e0f309c6f273aa5c
+2069	2150	7512108647817395	Database/libDatabase.a	7f302e564eb18a26
+3969	8547	7512129337644198	CMakeFiles/Login_Signup.dir/Login_Signup_autogen/mocs_compilation.cpp.obj	21b5552d3bbeb4d6
+54	218	7512129298472459	Service/Service_autogen/timestamp	ca38f6d62d5c3e28
+54	218	7512129298472459	Service/Service_autogen/mocs_compilation.cpp	ca38f6d62d5c3e28
+54	218	7512129298472459	C:/Users/tejas/Downloads/Login_Signup/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/Service/Service_autogen/timestamp	ca38f6d62d5c3e28
+54	218	7512129298472459	C:/Users/tejas/Downloads/Login_Signup/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/Service/Service_autogen/mocs_compilation.cpp	ca38f6d62d5c3e28
+219	2630	7512129300145588	Service/CMakeFiles/Service.dir/service.cpp.obj	4e09d0253a1fabac
+2908	5266	7512108656198231	Service/CMakeFiles/Service.dir/Service_autogen/mocs_compilation.cpp.obj	de791fedd41186cd
+2630	2796	7512129324265092	Service/libService.a	a439dd1a30e5d8c9
+53	264	7512130557877497	Login_Signup_autogen/timestamp	f3f7ade0e3d80bae
+53	264	7512130557877497	C:/Users/tejas/Downloads/Login_Signup/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/Login_Signup_autogen/timestamp	f3f7ade0e3d80bae
+53	264	7512130557877497	C:/Users/tejas/Downloads/Login_Signup/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/Login_Signup_autogen/mocs_compilation.cpp	f3f7ade0e3d80bae
+3983	6844	7512129337739237	CMakeFiles/Login_Signup.dir/Database/database.cpp.obj	be4146ee86233404
+3980	7120	7512129337739237	CMakeFiles/Login_Signup.dir/Service/service.cpp.obj	421ba75e63e29204
+3972	8323	7512129337644198	CMakeFiles/Login_Signup.dir/main.cpp.obj	2841ca243778e31c
+265	5039	7512130560002847	CMakeFiles/Login_Signup.dir/signup.cpp.obj	7d0cf2121672742f

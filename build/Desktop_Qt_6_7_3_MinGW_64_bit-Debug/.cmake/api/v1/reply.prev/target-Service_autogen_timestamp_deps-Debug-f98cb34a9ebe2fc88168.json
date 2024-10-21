@@ -1,0 +1,34 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"Service/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "Database::@c2e70d84feb6e889f948"
+		}
+	],
+	"id" : "Service_autogen_timestamp_deps::@91bc7765fde5a1b73d63",
+	"isGeneratorProvided" : true,
+	"name" : "Service_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "Service",
+		"source" : "Service"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}
