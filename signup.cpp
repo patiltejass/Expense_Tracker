@@ -60,6 +60,7 @@ void SignUp::loginreceiver(QString status)
     else{
         if(status=="true"){
             QMessageBox::information(nullptr, "Success", "Logged in Sucessfully");
+            ui->stackedWidget->setCurrentWidget(ui->page_2);
         }
         else{
             QMessageBox::warning(nullptr, "Error", "Password does not Matched");
@@ -84,5 +85,11 @@ void SignUp::on_pushButton_3_clicked()
     username = ui->textEdit_7->toPlainText();
     pass = ui->textEdit_8->toPlainText();
     emit emitlogin(username,pass);
+}
+
+
+void SignUp::on_pushButton_5_clicked()
+{
+     ui->stackedWidget->setCurrentWidget(ui->page);
 }
 
